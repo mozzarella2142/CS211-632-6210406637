@@ -1,4 +1,5 @@
 pizza
 lasagna
+fried rice
 pizzacompany
 nomoretofu.exe
